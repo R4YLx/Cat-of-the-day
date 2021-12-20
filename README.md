@@ -9,3 +9,8 @@ The images are fetched from [Cataas](https://cataas.com) using async and await.
 - Vanilla JavaScript
 - Bootstrap 5
 - VS Code
+
+
+## Screenshot
+
+![Cat of the day](https://github.com/R4YLx/Cat-of-the-day/blob/main/cotd-screenshot.png)
