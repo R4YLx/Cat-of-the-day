@@ -13,4 +13,4 @@ The images are fetched from [Cataas](https://cataas.com) using async and await.
 
 ## Screenshot
 
-![Cat of the day](https://github.com/R4YLx/Cat-of-the-day/blob/main/cotd-screenshot.png)
+<img src="https://github.com/R4YLx/Cat-of-the-day/blob/main/cotd-screenshot.png" width="50%">
